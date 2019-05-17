@@ -1,6 +1,9 @@
 A marker-based AR example from [8-th wall](https://github.com/8thwall/web/tree/master/examples)
 
-Maker in targets/scene.jpg
+
+Maker
+![Marker](targets/scene.jpg)
+
 
 Screenshot
 
